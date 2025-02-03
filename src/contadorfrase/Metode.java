@@ -8,6 +8,7 @@ package contadorfrase;
  *
  * @author Xavi Bermejo Borrella
  * @since 3/02/2025 10:18 AM
+ * @version 0.1
  */
 public interface Metode {
     public void ContadorCadena(String frase);

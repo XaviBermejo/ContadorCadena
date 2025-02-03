@@ -1,20 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package contadorfrase;
-
 import java.util.Scanner;
 
 /**
  *
- * @author Usuari
+ * @author Xavi Bermejo Borrella
+ * @since 03/02/2025 11:44 AM
+ * @version 1.0
  */
 public class Principal {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         System.out.println("=== CONTADOR DE CARACTER A CARACTER EN UNA CADENA DE CARACTERS ===");
         Scanner sc = new Scanner(System.in);

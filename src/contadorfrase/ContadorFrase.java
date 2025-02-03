@@ -7,7 +7,7 @@ package contadorfrase;
 /**
  * @author Xavi Bermejo Borrella
  * @since 3/2/2025 10:15 AM
- * @version 1
+ * @version 1.0
  */
 public final class ContadorFrase implements Metode {
     // variables
